@@ -24,7 +24,8 @@ This heatmap visualizes the correlation between each feature and the target (nex
 > **Interpretation:** Features with higher absolute correlation values may contribute more significantly to the regression model.
 
 📸 *Example Output:*  
-![Correlation Heatmap](assets/correlation_heatmap.png)
+![Figure_1](https://github.com/user-attachments/assets/50f2a521-86c4-474f-aa5e-d8096c4c985b)
+
 
 ---
 
@@ -35,7 +36,8 @@ This scatter plot compares the predicted stock prices (from the model) to the ac
 > **Interpretation:** The closer the points are to the red line, the better the model performance.
 
 📸 *Example Output:*  
-![Actual vs Predicted](assets/actual_vs_predicted.png)
+![Figure_2](https://github.com/user-attachments/assets/2aae29d1-a299-40b4-bed0-5962f30f9ea3)
+
 
 ---
 
